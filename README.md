@@ -42,3 +42,8 @@ Please fork the repo, and submit a pull request with your changes.
   * IRC:    wolfspyre on freenode
 
   * Twitter: @loiosh
+
+## Changelog
+
+  * 0.1.1 06/29/14
+    * Initial release
